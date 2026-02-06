@@ -5,12 +5,7 @@
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node server.js",
-    
-  "scripts": {
-    "build": "npm install",
-    "start": "npm start",
-  },
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
